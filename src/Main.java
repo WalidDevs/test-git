@@ -10,6 +10,10 @@ public class Main {
         System.out.println(D);
 
         System.out.println("hello aicha !");
+        System.out.println("Walid");
+
+        Walid wd=new Walid(3);
+        System.out.println(wd);
 
         
 
