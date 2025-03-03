@@ -6,5 +6,10 @@ public class Main {
 
         System.out.println("Hello World!");
 
+        Deku D= new Deku(1);
+
+        System.out.println(D);
+
+
     }
 }
