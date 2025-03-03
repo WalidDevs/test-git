@@ -10,7 +10,8 @@ public class Main {
         System.out.println(D);
 
         System.out.println("hello aicha !");
-
+         aichaTest test=new aichaTest(5);
+        System.out.println(test);
         
 
     }
